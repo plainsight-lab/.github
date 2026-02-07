@@ -23,7 +23,7 @@ PlainSight Labs applies rigorous governance and ethical AI principles to high-st
 ## Our Entities
 
 - **PlainSight Labs** - Governance, compliance, and ethical AI authority
-- **Invariant.org** - Protocol standards and specifications for financial systems
+- **Invariant Org** - Protocol standards and specifications for financial systems
 - **ClearLedger** - Transparent, non-custodial wallet implementation
 
 ## Our Approach
@@ -42,6 +42,11 @@ We believe in radical transparency. Our protocols, governance frameworks, and pu
 - [plainsightlabs.com](https://plainsightlabs.com)
 - [invariant.org](https://invariant.org)
 - [useclearledger.com](https://useclearledger.com)
+
+## Licensing
+This repository uses a split license:
+- **Code** (automation, deployment, and any Hugo/framework source) is licensed under the **Apache License 2.0** (`LICENSE`).
+- **Written content** (documentation and other non-code content) is licensed under **CC BY 4.0** (`LICENSE-CONTENT`).
 
 ---
 
