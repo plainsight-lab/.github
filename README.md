@@ -1,16 +1,16 @@
-# PlainSight Labs
+# PlainSight Lab
 
 Governance and adversarially resilient system design.
 
 ## Overview
 
-PlainSight Labs establishes and stewards governance models, protocol invariants, and human-authority AI constraints for systems operating under adversarial conditions.
+PlainSight Lab establishes and stewards governance models, protocol invariants, and human-authority AI constraints for systems operating under adversarial conditions.
 
 Our work emphasizes explicit authority boundaries, enforceable invariants, and auditability.
 
 ## Structure
 
-PlainSight Labs serves as governance authority and steward of invariants across derivative entities and associated implementations.
+PlainSight Lab serves as governance authority and steward of invariants across derivative entities and associated implementations.
 
 ## Licensing
 
